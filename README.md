@@ -21,7 +21,7 @@ Technologies Used: NodeJS, ExpressJS, EJS, CSS, JavaScript, Nodemon, MongoDB, Mo
 Under process...
 ## Authors
 
-- [@AnkitVishwakarma](https://github.com/Ankit6098)
+- [@manasa26-prog](https://github.com/manasa26-prog)
 
 
 ## Features
